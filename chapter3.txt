@@ -1,1 +1,2 @@
-This is text for chapter3
+This is text for chapter3!
+Gratz!
